@@ -6,3 +6,13 @@ c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTes
 c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.exe
 c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.pdb
+D:\Angular\cloneproject\TestAgain\GitTestAgain\bin\Debug\GitTestAgain.exe.config
+D:\Angular\cloneproject\TestAgain\GitTestAgain\bin\Debug\GitTestAgain.exe
+D:\Angular\cloneproject\TestAgain\GitTestAgain\bin\Debug\GitTestAgain.pdb
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.csproj.AssemblyReference.cache
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.Form1.resources
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.Properties.Resources.resources
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.csproj.GenerateResource.cache
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.csproj.CoreCompileInputs.cache
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.exe
+D:\Angular\cloneproject\TestAgain\GitTestAgain\obj\Debug\GitTestAgain.pdb
