@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\bin\Debug\GitTestAgain.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\bin\Debug\GitTestAgain.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\bin\Debug\GitTestAgain.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GitTestAgain\GitTestAgain\obj\Debug\GitTestAgain.pdb
